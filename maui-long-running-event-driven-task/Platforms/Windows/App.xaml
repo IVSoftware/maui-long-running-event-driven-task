@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="maui_long_running_event_driven_task.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:maui_long_running_event_driven_task.WinUI">
+
+</maui:MauiWinUIApplication>
